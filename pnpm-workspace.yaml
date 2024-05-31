@@ -1,5 +1,4 @@
 packages:
- - render/*
- - mahiro
- - server
- 
+  - render/*
+  - mahiro
+  - server
